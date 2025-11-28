@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=sistemachamadosapidbunip.database.windows.net,1433;Initial Catalog=SistemaChamadosAPI_db;Authentication=ActiveDirectoryManagedIdentity" />
+    <AzureDBConnectionStrings Include="REDACTED" />
+    <AzureDBConnectionStrings Include="Server=tcp:sistemachamadosapidbunip.database.windows.net,1433;Initial Catalog=SistemaChamadosAPI_db;Persist Security Info=False;User ID=CloudSA59d0b43a;Password=UnipPIM2025@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30" />
+    <AzureDBConnectionStrings Include="Server=tcp:sistemachamadosapidbunip.database.windows.net;Authentication=Active Directory Default;Database=SistemaChamadosAPI_db" />
+  </ItemGroup>
+</Project>

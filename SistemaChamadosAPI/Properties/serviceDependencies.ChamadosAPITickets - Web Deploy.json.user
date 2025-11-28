@@ -1,0 +1,74 @@
+{
+  "dependencies": {
+    "mssql2": {
+      "restored": false,
+      "restoreTime": "2025-11-25T21:59:11.553107Z"
+    },
+    "mssql1": {
+      "restored": false,
+      "restoreTime": "2025-11-25T21:59:11.553107Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "f02b4ff6-aadf-4b27-bb4e-d333bc44377e"
+    },
+    "ChamadosAPITickets.resourceGroupLocation": {
+      "Name": "ChamadosAPITickets.resourceGroupLocation",
+      "Type": null,
+      "Value": "canadacentral"
+    },
+    "mssql2.serviceConnectorResourceGroupName": {
+      "Name": "mssql2.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    },
+    "mssql1.resourceGroupLocation": {
+      "Name": "mssql1.resourceGroupLocation",
+      "Type": "location",
+      "Value": "canadacentral"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    },
+    "ChamadosAPITickets.subscriptionId": {
+      "Name": "ChamadosAPITickets.subscriptionId",
+      "Type": "subscription",
+      "Value": "f02b4ff6-aadf-4b27-bb4e-d333bc44377e"
+    },
+    "mssql2.resourceGroupName": {
+      "Name": "mssql2.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    },
+    "ChamadosAPITickets.resourceGroupName": {
+      "Name": "ChamadosAPITickets.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    },
+    "ChamadosAPITickets.resourceName": {
+      "Name": "ChamadosAPITickets.resourceName",
+      "Type": null,
+      "Value": "ChamadosAPITickets"
+    },
+    "mssql2.subscriptionId": {
+      "Name": "mssql2.subscriptionId",
+      "Type": "subscription",
+      "Value": "f02b4ff6-aadf-4b27-bb4e-d333bc44377e"
+    },
+    "mssql2.resourceGroupLocation": {
+      "Name": "mssql2.resourceGroupLocation",
+      "Type": "location",
+      "Value": "canadacentral"
+    },
+    "mssql1.serviceConnectorResourceGroupName": {
+      "Name": "mssql1.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    }
+  }
+}

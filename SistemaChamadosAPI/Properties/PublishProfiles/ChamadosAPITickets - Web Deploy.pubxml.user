@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>False|2025-11-25T21:59:25.7849648Z||;False|2025-11-24T19:59:08.4280013-03:00||;False|2025-11-24T19:43:41.4364007-03:00||;False|2025-11-24T19:39:19.8577752-03:00||;False|2025-11-24T19:27:54.7379920-03:00||;False|2025-11-24T19:09:28.3413483-03:00||;False|2025-11-24T19:08:42.1902151-03:00||;False|2025-11-24T18:47:06.8923401-03:00||;False|2025-11-24T18:46:45.0735441-03:00||;False|2025-11-24T18:22:21.7541403-03:00||;False|2025-11-24T18:21:40.2745952-03:00||;False|2025-11-10T00:10:04.7040200-03:00||;True|2025-11-09T22:33:59.8992069-03:00||;True|2025-11-09T22:16:01.2564967-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="SistemaChamadosAPI.Data.AppDbContext">
+      <Value>Server=tcp:sistemachamadosapidbunip.database.windows.net,1433%3bInitial Catalog=SistemaChamadosAPI_db%3bPersist Security Info=False%3bUser ID=CloudSA59d0b43a%3bPassword=UnipPIM2025%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+    <EFMigrations Include="SistemaChamadosAPI.Models.AppDbContext">
+      <Value>Server=tcp:sistemachamadosapidbunip.database.windows.net,1433%3bInitial Catalog=SistemaChamadosAPI_db%3bPersist Security Info=False%3bUser ID=CloudSA59d0b43a%3bPassword=UnipPIM2025%40%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

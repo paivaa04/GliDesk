@@ -1,0 +1,8 @@
+appsettings.Development.json
+/.vs
+SistemaChamadosAPI/.vs
+WeatherForecast.SistemaChamadosAPI
+SistemaChamadosAPI/bin
+SistemaChamadosAPI/obj
+SistemaChamadosAPI//Properties/launchSettings.json
+SistemaChamadosAPI.csproj.user

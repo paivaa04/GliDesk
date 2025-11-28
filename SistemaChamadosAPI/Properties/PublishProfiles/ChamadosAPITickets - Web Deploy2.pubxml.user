@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Esse arquivo é usado pelo processo de publicação/pacote do seu projeto Web. É possível personalizar o comportamento deste processo
+ao editar este arquivo MSBuild. Para saber mais sobre isso, visite https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-11-26T04:31:30.9382844Z||;True|2025-11-26T01:24:44.5784548-03:00||;True|2025-11-26T01:07:39.1358587-03:00||;True|2025-11-26T00:54:08.6527766-03:00||;False|2025-11-26T00:53:33.7660391-03:00||;True|2025-11-26T00:34:37.5485981-03:00||;True|2025-11-25T23:24:32.3607117-03:00||;True|2025-11-25T23:20:23.2519289-03:00||;True|2025-11-25T23:15:09.1311819-03:00||;True|2025-11-25T22:40:25.1738114-03:00||;True|2025-11-25T22:11:57.3933695-03:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <AzureDBConnectionStrings Include="Data Source=sistemachamadosapidbunip.database.windows.net,1433;Initial Catalog=SistemaChamadosAPI_db;Authentication=ActiveDirectoryManagedIdentity" />
+    <AzureDBConnectionStrings Include="REDACTED" />
+    <AzureDBConnectionStrings Include="Server=tcp:sistemachamadosapidbunip.database.windows.net,1433;Initial Catalog=SistemaChamadosAPI_db;Persist Security Info=False;User ID=CloudSA59d0b43a;Password=UnipPIM2025@;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30" />
+    <AzureDBConnectionStrings Include="Server=tcp:sistemachamadosapidbunip.database.windows.net;Authentication=Active Directory Default;Database=SistemaChamadosAPI_db" />
+  </ItemGroup>
+</Project>

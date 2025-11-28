@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "mssql3": {
+      "restored": true,
+      "restoreTime": "2025-11-25T22:30:27.0540565Z"
+    }
+  },
+  "parameters": {
+    "mssql3.subscriptionId": {
+      "Name": "mssql3.subscriptionId",
+      "Type": "subscription",
+      "Value": "f02b4ff6-aadf-4b27-bb4e-d333bc44377e"
+    },
+    "mssql3.serviceConnectorResourceGroupName": {
+      "Name": "mssql3.serviceConnectorResourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    },
+    "mssql3.resourceGroupName": {
+      "Name": "mssql3.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "ChamadosAPITicketsRG"
+    }
+  }
+}
