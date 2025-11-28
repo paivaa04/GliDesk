@@ -92,7 +92,7 @@ var app = builder.Build();
 app.UseSwagger();
 app.UseSwaggerUI(c =>
 {
-    c.SwaggerEndpoint("/swagger/v1/swagger.json", "SistemaChamadosAPI V1");
+    c.SwaggerEndpoint("/swagger/v1/swagger.json", "Glidesk V0.5");
     c.RoutePrefix = string.Empty;
 });
 
