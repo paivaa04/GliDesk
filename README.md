@@ -55,13 +55,6 @@ Este projeto representa minha evolução como desenvolvedor e minha preparação
 
 ---
 
-## 🎨 Mockup da Interface
-
-Abaixo está uma prévia visual de como ficará o design final do Glidesk:
-
-![Mockup](./ChatGPT%20Image%2030%20de%20nov.%20de%202025,%2022_34_51.png)
-
-_(Versões dark e light do layout de login)_
 
 ---
 
